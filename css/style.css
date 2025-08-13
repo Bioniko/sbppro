@@ -2422,3 +2422,16 @@ figure figcaption {
     max-width: 100%;
   }
 }
+
+
+.services-grid {
+    display: flex;
+    flex-wrap: wrap;        /* Permite varias filas */
+    gap: 20px;              /* Espacio entre tarjetas */
+    justify-content: center; /* Centra las tarjetas en la fila */
+}
+
+.service-card {
+    flex: 1 1 220px;       /* Crece y encoge, con ancho mínimo de 220px */
+    box-sizing: border-box;
+}
