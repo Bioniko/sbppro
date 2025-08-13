@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         //$mail->SMTPDebug = 2; // Modo debug para ver detalles
         //$mail->Debugoutput = 'html';
         $mail->isSMTP();
-        $mail->Host       = 'mail.alertahn.com';   // Servidor SMTP HostGator
+        $mail->Host       = 'mail.sbppro.com';   // Servidor SMTP HostGator
         $mail->SMTPAuth   = true;
         $mail->Username   = 'info@sbppro.com';   // Tu correo
         $mail->Password   = 'sbpIN2024##';          // Tu contraseña real
