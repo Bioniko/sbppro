@@ -31,6 +31,8 @@
                             <textarea name="mensaje" id="message" cols="30" rows="7" class="form-control" placeholder="¡Cuéntanos qué servicio te interesa!"></textarea>
                         </div>
                     </div>
+                    <!-- Aquí va el reCAPTCHA -->
+                    <div class="g-recaptcha" data-sitekey="6Lcbo6srAAAAADYwIJOuornEfOEb0pOF4wW-3cSN"></div>
                     <div class="row form-group">
                         <div class="col-md-12">
                             <input type="submit" value="Send Message" class="btn btn-primary btn-md text-white">
