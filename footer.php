@@ -4,7 +4,7 @@
             <!-- Logo y redes -->
             <div class="col-12 col-md-3 text-center text-md-start">
                 <a href="https://sbppro.com/">
-                    <img src="https://sbppro.com/wp-content/uploads/2023/12/Logo-SBP-Full.png" 
+                    <img src="images/logo.png" 
                         alt="Logo SBP" 
                         class="img-fluid mb-3" style="max-width: 180px;">
                 </a>
