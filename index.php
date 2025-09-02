@@ -46,6 +46,7 @@
             <h2 class="section-title mb-3" style="color:black">Servicios</h2>
             <p style="text-align: center !important;color: rgba(12, 16, 40, 0.5) !important;;font-size: 120%;">Soluciones de Recursos Humanos diseñadas para impulsar el crecimiento de tu empresa </p>
           </div>
+          <!--
           <div class="servicios" style="padding: 4% 0% 4% 0%;">
             <div class="card">
                 <div class="card-front">
@@ -96,10 +97,59 @@
                     Nos adaptamos a necesidades específicas de cualquier organización.
                 </div>
             </div>
-        </div>
+          </div>
+          -->
+          <!-- ======================================================================================================-->
+          
         </div>
         
       </div> 
+      <div class="services-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));; gap: 20px;margin: 3% 5% 3% 5%">
+          <!-- Tarjeta 1 -->
+          <div class="service-card">
+              <div class="icon" style="text-align: center;font-size: 50px;color: #0077b6">
+                <i class="fa-solid fa-user-group"></i>
+              </div>
+              <h2 style="color: #000">Staffing</h2>
+              <p>Nos convertimos en el patrón legal de tu personal, alineándonos a la legislación vigente del país.</p>
+          </div>
+
+          <!-- Tarjeta 2 -->
+          <div class="service-card">
+              <div class="icon" style="text-align: center;font-size: 50px;color: #0077b6">
+                <i class="fa-solid fa-user"></i>
+              </div>
+              <h2 style="color: #000">BPO</h2>
+              <p>Nuestros equipos de staff atienden diferentes tipos de eventos temporales o permanentes.</p>
+          </div>
+
+          <!-- Tarjeta 3 -->
+          <div class="service-card">
+              <div class="icon" style="text-align: center;font-size: 50px;color: #0077b6">
+                <i class="fa-solid fa-calculator"></i>
+              </div>
+              <h2 style="color: #000">Payroll</h2>
+              <p>Calculamos la planilla del personal de nuestros clientes brindando seguridad y respaldo.</p>
+          </div>
+
+          <!-- Tarjeta 4 -->
+          <div class="service-card">
+              <div class="icon" style="text-align: center;font-size: 50px;color: #0077b6">
+                <i class="fa-solid fa-circle-check"></i>
+              </div>
+              <h2 style="color: #000">Headhunting</h2>
+              <p>Encontramos, evaluamos y brindamos las mejores opciones de contratación para nuestros clientes.</p>
+          </div>
+
+          <!-- Tarjeta 5 -->
+          <div class="service-card">
+              <div class="icon" style="text-align: center;font-size: 50px;color: #0077b6">
+                <i class="fa-solid fa-comment-dollar"></i>
+              </div>
+              <h2 style="color: #000">Otros Servicios</h2>
+              <p>Nos adaptamos a necesidades específicas de cualquier organización.</p>
+          </div>
+      </div>
       <div class="row" style="background-color: #e9eaf4 !important;padding: 5% 4% 5% 4%;">
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="" style="text-align: center;">
           <figure class="">
