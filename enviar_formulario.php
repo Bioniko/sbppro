@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         //$mail->SMTPDebug = 2; // Modo debug
         //$mail->Debugoutput = 'html';
         $mail->isSMTP();
-        $mail->Host       = 'mail.alertahn.com';   // Servidor SMTP HostGator
+        $mail->Host       = 'mail.sbppro.com';   // Servidor SMTP HostGator
         $mail->SMTPAuth   = true;
         $mail->Username   = 'info@sbppro.com';     // Tu correo
         $mail->Password   = 'sbpIN2024##';         // Tu contraseña
@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $mail->Port       = 465;                   // Puerto SSL
         $mail->CharSet    = 'UTF-8';
 
-        $mail->setFrom('info@sbppro.com', 'mail@alertahn.com');
+        $mail->setFrom('info@sbppro.com', 'mail@sbppro.com');
         $mail->addAddress('info@sbppro.com'); // Destinatario
 
         $mail->isHTML(true);
