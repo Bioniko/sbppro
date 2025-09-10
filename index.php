@@ -217,7 +217,7 @@
     </section>
 
     <section class="seccion-crecimiento" style="background-color: #e9eaf4;text-align: center;padding: 4% 0% 4% 0%;">
-      <img src="images/Logos Nuestros Clientes/Presencia-SBP.png" alt="" style="width: 35%;">
+      <img src="images/Logos Nuestros Clientes/Mapa SBP CA y RD.png" alt="" style="width: 50%;">
     </section>
 
     <section class="seccion-crecimiento" style="background-color: #e9eaf4;text-align: center;padding: 4% 0% 4% 0%;">
