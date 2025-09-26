@@ -32,6 +32,9 @@
                         </div>
                     </div>
                     <!-- Campo oculto -->
+                    <?php
+                    $ip = $_SERVER['REMOTE_ADDR'];
+                    ?>
                     <input type="hidden" name="ip_usuario" id="ip_usuario" value="<?php echo $ip; ?>">
                     <!-- Campo oculto -->
                     <!-- Aquí va el reCAPTCHA -->
