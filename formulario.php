@@ -31,6 +31,9 @@
                             <textarea name="mensaje" id="message" cols="30" rows="7" class="form-control" placeholder="¡Cuéntanos qué servicio te interesa!"></textarea>
                         </div>
                     </div>
+                    <!-- Campo oculto -->
+                    <input type="hidden" name="ip_usuario" id="ip_usuario" value="<?php echo $ip; ?>">
+                    <!-- Campo oculto -->
                     <!-- Aquí va el reCAPTCHA -->
                     <div class="g-recaptcha" data-sitekey="6Lcbo6srAAAAADYwIJOuornEfOEb0pOF4wW-3cSN"></div>
                     <div class="row form-group">
