@@ -331,6 +331,7 @@
           <img src="images/Logos Nuestros Clientes/PNG/AIWA.png" alt="" style="width: 100%;">
         </div>
       </div>
+      <!--
       <h2 style="padding: 10% 0% 1% 0%;"><strong>¡Comunícate con nosotros!</strong></h2>
       <p style="color: rgba(12, 16, 40, 0.5) !important;text-align: center; font-size: 120%;">¨Asociarnos con SBP Outsourcing fue una de las mejores decisiones que tomamos para hacer más eficiente nuestra empresa. No sólo han agilizado nuestros procesos de RRHH, sino que también nos han proporcionado orientación estratégica para nuestro crecimiento.”</p>
       <div class="row" style="padding: 5% 35% 0% 35%;">
@@ -341,8 +342,9 @@
           <h4 style="color: #000;">Expreco S.de R.L</h4>
         </div>
       </div>
+      -->
     </section>
-
+    <?php include "comentarios.php";?>
   <!--
     <section class="site-section border-bottom" id="team-section">
       <div class="container">
