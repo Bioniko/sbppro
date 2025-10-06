@@ -963,6 +963,8 @@
       </div>
     </section>
  -->
+  <div style="text-align: center;padding: 0% 20% 5% 20%;background-color: #e9eaf4 !important;">
+      <h2 style="padding: 10% 0% 1% 0%;"><strong>¡Comunícate con nosotros!</strong></h2></div>
   <?php include "formulario.php";?>
   <?php include "footer.php";?>
   <?php include "bootstrap.php";?>
